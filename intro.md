@@ -2,6 +2,7 @@ Git commands demo
 
 test branchgit add -i
 
+https://github.com/sponsors
 
 Q.
 You've checked out some code from a Git repository. You started coding on your own local branch called my-new-changes. You finish coding and run git add to stage all your changes.
@@ -24,3 +25,11 @@ Submit the staged changes to your local branch using git commit
 C. Upload changes to the remote git server using git push
 D.
 Submit the staged changes to your local branch using git push
+
+
+
+What option can you use to apply git configurations across your entire git environment?
+O--master
+O --global
+O--update
+O --all
