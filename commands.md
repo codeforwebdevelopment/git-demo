@@ -552,3 +552,6 @@ Use gitflow as reference to branch naming strategy https://www.atlassian.com/
 
 Visualizing Git (git-school.github.io)
 https://git-school.github.io/visualizing-git/#rewritten-history
+
+Collaborating workflows	https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow	
+semantic Versioning	https://semver.org/spec/v2.0.0.html	
