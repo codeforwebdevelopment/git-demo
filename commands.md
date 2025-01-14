@@ -555,3 +555,6 @@ https://git-school.github.io/visualizing-git/#rewritten-history
 
 Collaborating workflows	https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow	
 semantic Versioning	https://semver.org/spec/v2.0.0.html	
+
+git config --list --show-origin
+dont add comma, inveted commas to the git new branch
