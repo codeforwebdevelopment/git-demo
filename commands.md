@@ -543,7 +543,7 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 The last commit that has not been pushed yet can be undone by running 'git reset --soft HEAD~' on your terminal. This command undoes the latest commit, keeps the changes in place, and reverts the files back to the staging area.
 
 Use semversion as reference to version naming strategy https://semver.org/spec/v2.0.0.html ​
-
+semantic Versioning
 ​
 
 Use gitflow as reference to branch naming strategy https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow ​
@@ -554,7 +554,10 @@ Visualizing Git (git-school.github.io)
 https://git-school.github.io/visualizing-git/#rewritten-history
 
 Collaborating workflows	https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow	
-semantic Versioning	https://semver.org/spec/v2.0.0.html	
-
 git config --list --show-origin
 dont add comma, inveted commas to the git new branch
+
+Publicizing or hiding organization membership
+Under your organization name, click  People.
+To publicize your membership, choose Public.
+To hide your membership, choose Private.
