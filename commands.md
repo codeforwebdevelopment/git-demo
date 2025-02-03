@@ -561,3 +561,16 @@ Publicizing or hiding organization membership
 Under your organization name, click  People.
 To publicize your membership, choose Public.
 To hide your membership, choose Private.
+
+git config user.email sunnyvales789@gmail.com
+git add .
+git commit -m"update"
+git remote set-url origin https://github.com/sunny7899/todo-crud-app.git
+git remote add origin  https://github.com/angulardevelopment/agile-board.git
+git push origin master
+git clone
+git checkout -b "test"
+git pull origin main
+git remote show origin or git remote -v
+git for-each-ref --format='%(committerdate) %09 %(authorname) %09 %(refname)' --sort=committerdate    log branches
+git init
