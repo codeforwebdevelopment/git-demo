@@ -574,3 +574,5 @@ git pull origin main
 git remote show origin or git remote -v
 git for-each-ref --format='%(committerdate) %09 %(authorname) %09 %(refname)' --sort=committerdate    log branches
 git init
+
+https://github.com/settings/tokens/1642336519 all features github
