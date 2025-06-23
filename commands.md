@@ -565,7 +565,7 @@ To hide your membership, choose Private.
 git config user.email sunnyvales789@gmail.com
 git add .
 git commit -m"update"
-git remote set-url origin https://github.com/sunny7899/todo-crud-app.git
+git remote set-url origin https://github.com/sunny7899/todo-crud-app.git  - update origin with this set-url
 git remote add origin  https://github.com/angulardevelopment/agile-board.git
 git push origin master
 git clone
